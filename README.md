@@ -24,7 +24,7 @@
 1. Установите зависимости:
  npm install
 
-2. Установите браузеры Playwright
+2. Установите браузеры Playwright:
  npx playwright install  
 
 3. Запустите тесты:
